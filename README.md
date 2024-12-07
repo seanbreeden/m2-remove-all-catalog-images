@@ -44,7 +44,7 @@
                                 $$    $$/                                                   
                                  $$$$$$/                                                    
 
-#Magento 2 Remove All Catalog Images
+# Magento 2 Remove All Catalog Images
 
 This script will disassociate all product catalog media gallery images.
 After it runs, delete /pub/media/catalog/product to completely erase all product images.
